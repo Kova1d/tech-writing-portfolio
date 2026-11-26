@@ -26,6 +26,10 @@
 
 Markdown · Git / GitHub · draw.io · MS Word · curl · Node.js (для проверки примеров API)
 
+## Сетевые кейсы
+
+[Cisco Packet Tracer и Huawei eNSP](network-cases/README.md) — конфигурации, проверки связности и диагностика сети со скриншотами.
+
 ## Контакты
 
 Telegram: @kova1d
