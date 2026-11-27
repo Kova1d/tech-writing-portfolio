@@ -4,6 +4,10 @@
 
 Каждая страница содержит описание задачи, результаты и галерею сохранённых проверок.
 
+## Мониторинг Linux
+
+- [Мониторинг трёх станций Ubuntu с Prometheus и Grafana](linux-monitoring/README.md)
+
 ## Cisco Packet Tracer
 
 - [ARP и обнаружение соседей](cisco/arp/README.md)
